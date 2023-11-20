@@ -1,10 +1,10 @@
 class ExampleTestStep {
     fun beforeOne() {
-        println("Выполнение метода")
+        println("Выполнение метода")    //???? before
     }
 
     fun beforeTestTwo() {
-        println("Выполнение метода")
+        println("Выполнение метода")    //???? before
     }
 
     fun oneBefore() {
